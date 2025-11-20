@@ -1,1 +1,2 @@
-"print('hello git teste')" 
+message = 'hello'
+print(message)
